@@ -1,0 +1,14 @@
+PS C:\Users\frbox\Downloads\Arshath\Novintix\electricity_ai_assignment> python task4_rule_ai/usage_category.py
+Predicted Global Active Power: 2.8
+Usage Category: High Usage
+Suggestion: Consider reducing heavy appliance usage to save energy.
+
+
+PS C:\Users\frbox\Downloads\Arshath\Novintix\electricity_ai_assignment> python task4_rule_ai/usage_category.py
+Loading dataset...
+Preparing lag features...
+Training model...
+
+Predicted Global Active Power: 1.3614000000000002
+Usage Category: Medium Usage
+Suggestion: Monitor appliance usage to optimize electricity consumption.

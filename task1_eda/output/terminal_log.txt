@@ -1,0 +1,75 @@
+Loading dataset...
+Dataset Loaded
+Shape: (2075259, 9)
+Creating datetime column...
+After cleaning: (2049280, 10)
+Generating time series plot...
+Saved power_trend.png
+Analyzing hourly usage...
+Saved hourly_usage.png
+Analyzing daily usage...
+Saved daily_usage.png
+
+Missing Values Summary:
+Date                     0
+Time                     0
+Global_active_power      0
+Global_reactive_power    0
+
+Missing Values Summary:
+Date                     0
+Time                     0
+Global_active_power      0
+Global_reactive_power    0
+Missing Values Summary:
+Date                     0
+Time                     0
+Global_active_power      0
+Global_reactive_power    0
+Date                     0
+Time                     0
+Global_active_power      0
+Global_reactive_power    0
+Time                     0
+Global_active_power      0
+Global_reactive_power    0
+Global_active_power      0
+Global_reactive_power    0
+Global_reactive_power    0
+Voltage                  0
+Voltage                  0
+Global_intensity         0
+Sub_metering_1           0
+Sub_metering_2           0
+Sub_metering_3           0
+Datetime                 0
+Hour                     0
+Date_only                0
+dtype: int64
+Sub_metering_3           0
+Datetime                 0
+Hour                     0
+Date_only                0
+Sub_metering_3           0
+Datetime                 0
+Hour                     0
+Sub_metering_3           0
+Datetime                 0
+Sub_metering_3           0
+Datetime                 0
+Sub_metering_3           0
+Sub_metering_3           0
+Sub_metering_3           0
+Sub_metering_3           0
+Datetime                 0
+Sub_metering_3           0
+Datetime                 0
+Sub_metering_3           0
+Datetime                 0
+Sub_metering_3           0
+Datetime                 0
+Hour                     0
+Date_only                0
+dtype: int64
+
+EDA Completed Successfully

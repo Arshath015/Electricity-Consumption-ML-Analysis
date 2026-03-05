@@ -1,0 +1,4 @@
+data/household_power_consumption.txt
+__pycache__/
+*.pyc
+.vscode/
