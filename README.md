@@ -61,6 +61,10 @@ electricity_ai_assignment
 │
 ├── task3_unsupervised
 │   └── anomaly_clustering.py
+    └── output
+│       ├── power_trend.png
+│       ├── hourly_usage.png
+│       ├── daily_usage.png
 │
 ├── task4_rule_ai
 │   └── usage_category.py
