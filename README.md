@@ -54,31 +54,28 @@ electricity_ai_assignment
 │   └── household_power_consumption.txt
 │
 ├── task1_eda
-│   └── eda_analysis.py
-│
-├── task2_forecasting
-│   └── forecasting_model.py
-│
-├── task3_unsupervised
-│   └── anomaly_clustering.py
-    └── output
+│   ├── eda_analysis.py
+│   └── output
 │       ├── power_trend.png
 │       ├── hourly_usage.png
-│       ├── daily_usage.png
+│       └── daily_usage.png
+│
+├── task2_forecasting
+│   ├── forecasting_model.py
+│   └── output
+│       └── prediction_vs_actual.png
+│
+├── task3_unsupervised
+│   ├── anomaly_clustering.py
+│   └── output
+│       ├── anomalies.png
+│       └── clusters.png
 │
 ├── task4_rule_ai
 │   └── usage_category.py
 │
 ├── utils
 │   └── data_loader.py
-│
-├── output
-│   ├── power_trend.png
-│   ├── hourly_usage.png
-│   ├── daily_usage.png
-│   ├── prediction_vs_actual.png
-│   ├── anomalies.png
-│   └── clusters.png
 │
 └── README.md
 ```
