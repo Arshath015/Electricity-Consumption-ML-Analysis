@@ -245,3 +245,10 @@ AI/ML Engineer
 
 ---
 **Last updated:** 2026-07-26
+
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
